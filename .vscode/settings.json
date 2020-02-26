@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/paul/venv/bin/python"
+    "python.pythonPath": "/home/paul/dev/venv/bin/python",
+    "python.linting.enabled": true
 }
